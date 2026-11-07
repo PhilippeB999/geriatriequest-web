@@ -4,7 +4,7 @@
    ⚠️ Bumper la version du CACHE à CHAQUE déploiement
       (geriatriequest-v1 -> v2 -> v3 ...). */
 
-const CACHE = "geriatriequest-v1";
+const CACHE = "geriatriequest-v2";
 const ASSETS = [
   "index.html",
   "theme-saisonnier.js",
